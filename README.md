@@ -2,7 +2,7 @@
 
 Лендинг с кастомизированной формой обратной связи.
 
-Технологии: CSS, JS, HTML.
+Технологии: CSS, SCSS, JS, HTML.
 
 Ссылка на проект: https://kotcher1.github.io/test-landing/
 
